@@ -3,7 +3,7 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 import logo from "../../../assets/images/logo.png";
 const Header = () => {
   return (
-    <Navbar collapseOnSelect bg="info" variant="light" expand="md">
+    <Navbar collapseOnSelect bg="info" variant="dark" expand="md">
       <Container>
         <Navbar.Brand>
           <img src={logo} width="50px" alt="" />
