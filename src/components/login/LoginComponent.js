@@ -42,7 +42,7 @@ const LoginComponent = ({
             <div className="mt-3">
               <p
                 onClick={() => setFormLoad("reset")}
-                style={{ cursor: "pointer" }}
+                style={{ cursor: "pointer", width: "7.7rem" }}
                 className="text-info"
               >
                 Forget Password

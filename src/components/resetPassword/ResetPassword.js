@@ -29,7 +29,7 @@ const ResetPassword = ({
             <div className="mt-3">
               <p
                 onClick={() => setFormLoad("login")}
-                style={{ cursor: "pointer" }}
+                style={{ cursor: "pointer", width: "5rem" }}
                 className="text-info"
               >
                 Login Now
