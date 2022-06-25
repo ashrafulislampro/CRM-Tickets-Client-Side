@@ -9,7 +9,24 @@
     "id": 2,
     "subject": "website is fantastic",
     "addedAt": "2022-05-21",
-    "status": "Client response pending"
+    "status": "Client response pending",
+    "history": [
+      {
+        "messageBy": "Client",
+        "date": "20-01-2022",
+        "message": "Awesome full stack application."
+      },
+      {
+        "messageBy": "Operator",
+        "date": "20-01-2022",
+        "message": "Awesome full stack application."
+      },
+      {
+        "messageBy": "Client",
+        "date": "20-01-2022",
+        "message": "Awesome full stack application."
+      }
+    ]
   },
   {
     "id": 3,
